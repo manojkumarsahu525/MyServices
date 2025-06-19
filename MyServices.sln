@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILayer", "User.Service\AP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLayer", "Service.Models\DomainLayer.csproj", "{12C689ED-5E8B-4DCF-A49F-7921C8FC712E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCaseProject", "TestCaseProject\TestCaseProject.csproj", "{B7CE064A-9EBA-46BA-9B60-0C55A956A1F8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLayer", "ApplicationLayer\ApplicationLayer.csproj", "{53E5BFDF-5062-4720-876A-793F2C887034}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfrastructureLayer", "InfrastructureLayer\InfrastructureLayer.csproj", "{0CBC0BCF-6833-4470-A3B3-ED55F601A218}"
@@ -27,10 +25,6 @@ Global
 		{12C689ED-5E8B-4DCF-A49F-7921C8FC712E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C689ED-5E8B-4DCF-A49F-7921C8FC712E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C689ED-5E8B-4DCF-A49F-7921C8FC712E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7CE064A-9EBA-46BA-9B60-0C55A956A1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7CE064A-9EBA-46BA-9B60-0C55A956A1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7CE064A-9EBA-46BA-9B60-0C55A956A1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7CE064A-9EBA-46BA-9B60-0C55A956A1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{53E5BFDF-5062-4720-876A-793F2C887034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{53E5BFDF-5062-4720-876A-793F2C887034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E5BFDF-5062-4720-876A-793F2C887034}.Release|Any CPU.ActiveCfg = Release|Any CPU
